@@ -10,3 +10,4 @@ api_key = os.getenv("GROQ_API_KEY")
 
 # Print the key (for testing purposes)
 print(f"Your API Key is: {api_key}")
+# done
