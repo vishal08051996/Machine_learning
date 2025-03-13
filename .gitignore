@@ -173,3 +173,25 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Virtual environment
+venv_E2E/
+
+# Model Checkpoints
+models/*.h5
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+
+# Data files
+data/raw/
+data/processed/
+
+#folders
+data/raw/
+data/processed/
+data/output/
