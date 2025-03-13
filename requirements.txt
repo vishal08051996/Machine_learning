@@ -1,3 +1,9 @@
-python-dotenv
-pandas
+tensorflow
 numpy
+pandas
+seaborn
+scikit-learn
+matplotlib
+flask
+streamlit
+-e .
